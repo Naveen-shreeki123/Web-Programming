@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+h1.hello {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 400%;
+    text-align: center;
+}
+h1.head {
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 400%;
+    text-align: center;
+}
+
+p {
+    color:black;
+    font-size: 40px;
+    
+}
